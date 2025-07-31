@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-07-30T21:48:19.752995",
+  "source_path": "/Users/flowgirl/Documents/FolderHackingAnalysis",
+  "analysis_depth": "standard",
+  "version": "1.0.0",
+  "files_analyzed": 4,
+  "security_summary": {
+    "total_operations": 0,
+    "denied_operations": 0,
+    "error_operations": 0,
+    "success_rate": 1.0,
+    "source_repo": "/Users/flowgirl/Documents/FolderHackingAnalysis",
+    "pawprint_repo": "/private/tmp/autopawprint_output",
+    "security_zones_validated": true
+  },
+  "files": [
+    {
+      "path": "launch_console_gui.py",
+      "size": 2840,
+      "type": ".py",
+      "analyzed_at": "2025-07-30T21:48:19.759170"
+    },
+    {
+      "path": "run_pawprinting.sh",
+      "size": 1754,
+      "type": ".sh",
+      "analyzed_at": "2025-07-30T21:48:19.760561"
+    },
+    {
+      "path": "run_enhanced_pawprinting.py",
+      "size": 9662,
+      "type": ".py",
+      "analyzed_at": "2025-07-30T21:48:19.762718"
+    },
+    {
+      "path": "README_ENHANCED_PAWPRINTING.md",
+      "size": 3665,
+      "type": ".md",
+      "analyzed_at": "2025-07-30T21:48:19.763572"
+    }
+  ],
+  "security_info": {
+    "source_repo": "temp/source",
+    "pawprint_repo": "aimarketingflow/pawprint-pp-repo",
+    "operations_count": 1,
+    "timestamp": "2025-07-30T21:48:21.269910"
+  }
+}
